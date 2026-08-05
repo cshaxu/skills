@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Governance"
+  short_description: "Define and audit source ownership, APIs, and change discipline"
+  default_prompt: "Use $coding-governance to establish or audit this repository's coding standard."

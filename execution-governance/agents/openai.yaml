@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execution Governance"
+  short_description: "Track requirements, verification, deferral, and task closure"
+  default_prompt: "Use $execution-governance to establish or audit this repository's task workflow."

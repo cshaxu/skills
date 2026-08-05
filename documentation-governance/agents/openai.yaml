@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Governance"
+  short_description: "Consolidate documentation authorities and audit their consistency"
+  default_prompt: "Use $documentation-governance to consolidate or audit this repository's documentation governance."
